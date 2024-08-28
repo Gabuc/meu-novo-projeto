@@ -32,5 +32,6 @@ Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue
 
 📧 Contato
 Você pode me encontrar no <a href="www.linkedin.com/in/gabrielly-cassemiro"> Linkedin </a> 
-Ou me envie um e-mail para para trocas formais: gabriellycassemiro@gmial.com
+
+📧 Pode me enviar um e-mail para para trocas formais: gabriellycassemiro@gmial.com
 
