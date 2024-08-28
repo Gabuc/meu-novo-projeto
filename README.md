@@ -31,6 +31,6 @@ Adicionar funcionalidades interativas com JS.
 Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou fazer um pull request! 😊
 
 📧 Contato
-Você pode me encontrar no <a href="www.linkedin.com/in/gabrielly-cassemiro" Linkedin </a> 
+Você pode me encontrar no <a href="www.linkedin.com/in/gabrielly-cassemiro"> Linkedin </a> 
 Ou me envie um e-mail para para trocas formais: gabriellycassemiro@gmial.com
 
