@@ -1,0 +1,50 @@
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Criptografador de Texto</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="encriptar">
+        <textarea
+          name="texto"
+          class="texto"
+          id="texto"
+          cols="30"
+          rows="10"
+          placeholder="Digite o texto aqui"
+        ></textarea>
+
+        <div class="terminal">
+          <p>Somente letras minúsculas e sem acentos.</p>
+        </div>
+        <div class="botoes">
+          <button class="btn-encriptar" type="button" onclick="encriptar()">
+            Criptografar
+          </button>
+          <input
+            type="button"
+            class="btn-desencriptar"
+            value="Descriptografar"
+            onclick="desencriptar()"
+          />
+        </div>
+      </div>
+      <div class="encriptado">
+        <img src="img/menino.png" alt="" id="menino" />
+        <div class="mensagem-encriptado" id="mensagem-encriptado">
+          <h2 id="titulo-mensagem">Nenhuma mensagem encontrada</h2>
+          <p id="parrafo">
+            Digite o texto que deseja criptografar ou descriptografar
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="index.js"></script>
+</html>
