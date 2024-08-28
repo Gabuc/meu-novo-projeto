@@ -17,6 +17,8 @@ Interatividade básica com JavaScript 🎉
 
 Design minimalista e clean ✨
 
+
+
 📂 Estrutura do Projeto
 index.html: A estrutura básica da página.
 styles.css: Onde a mágica do CSS acontece para deixar tudo bonitinho.
