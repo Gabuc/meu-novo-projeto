@@ -1,5 +1,6 @@
 🌟 Projeto do Bootcamp Alura + Oracle 🌟
 🚀 Meu Primeiro Projeto com HTML, CSS e JS 🚀
+
 Oi! Eu sou a Gabye, e este é o meu primeiro projeto de front-end feito durante o Bootcamp Alura + Oracle. Ainda estou começando nessa jornada de programação, mas já estou apaixonada por criar interfaces legais e funcionais! 😄
 
 🎯 Sobre o Projeto
