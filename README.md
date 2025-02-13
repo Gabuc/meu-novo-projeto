@@ -41,9 +41,22 @@ Adicionar funcionalidades interativas com JS.
 # Contribuições 🤝
 Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou fazer um pull request! 😊
 
-```
-Contato 📧
+
+
+**Licença**
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+Se precisar de ajuda ou tiver alguma dúvida, é só chamar! Espero que você se divirta e aprenda bastante com este projeto. 📚🌟
+
+---
+
+
+**Contato** 📧
+
 Você pode me encontrar no <a href="www.linkedin.com/in/gabrielly-cassemiro"> Linkedin </a> 
 
 Pode me enviar um e-mail para para trocas formais: gabriellycassemiro@gmail.com 📧 
+
+
 
