@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/73a06e55-cd91-47ae-9a3c-3c461f14d377)
+
+
 🌟 Projeto do Bootcamp Alura + Oracle 🌟
 
 🚀 Meu Primeiro Projeto com HTML, CSS e JS 🚀
