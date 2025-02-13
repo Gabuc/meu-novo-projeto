@@ -1,10 +1,7 @@
 ![image](https://github.com/user-attachments/assets/73a06e55-cd91-47ae-9a3c-3c461f14d377)
 
 
-# Projeto do Bootcamp Alura + Oracle 🌟
-
-
-# Meu Primeiro Projeto com HTML, CSS e JS 🚀
+# Bem-vinda(o) ao Primeiro Projeto: HTML, CSS e JS 🚀
 
 Oi! Eu sou a Gabye, e este é o meu primeiro projeto de front-end feito durante o Bootcamp Alura + Oracle. Ainda estou começando nessa jornada de programação, mas já estou apaixonada por criar interfaces legais e funcionais! 😄
 
@@ -14,12 +11,12 @@ A ideia é que seja um site responsivo, com uma interface amigável e algumas in
 
 Funcionalidades:
 
-
 Layout responsivo 📱💻
 
 Interatividade básica com JavaScript 🎉
 
 Design minimalista e clean ✨
+
 
  
 # Estrutura do Projeto 📂
