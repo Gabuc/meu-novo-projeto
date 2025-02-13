@@ -19,9 +19,8 @@ Layout responsivo 📱💻
 Interatividade básica com JavaScript 🎉
 
 Design minimalista e clean ✨
-```
 
-
+``
 # Estrutura do Projeto 📂
 index.html: A estrutura básica da página.
 styles.css: Onde a mágica do CSS acontece para deixar tudo bonitinho.
@@ -44,5 +43,5 @@ Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue
 Contato 📧
 Você pode me encontrar no <a href="www.linkedin.com/in/gabrielly-cassemiro"> Linkedin </a> 
 
-Pode me enviar um e-mail para para trocas formais: gabriellycassemiro@gmial.com 📧 
+Pode me enviar um e-mail para para trocas formais: gabriellycassemiro@gmail.com 📧 
 
