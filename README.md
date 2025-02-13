@@ -24,12 +24,12 @@ index.html: A estrutura básica da página.
 styles.css: Onde a mágica do CSS acontece para deixar tudo bonitinho.
 index.js: Aqui estão as funcionalidades em JavaScript que fazem o site interagir com o usuário.
 
-# Tecnologias Utilizadas 💻
+**Tecnologias Utilizadas** 💻
 HTML5: Para a marcação do conteúdo.
 CSS3: Para o estilo e responsividade.
 JavaScript: Para a interatividade.
 
-# Aprendizados 🌱
+**Aprendizados** 🌱
 Estruturar HTML de forma semântica
 Criar layouts responsivos com Flexbox.
 Adicionar funcionalidades interativas com JS.
