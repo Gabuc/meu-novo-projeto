@@ -3,11 +3,12 @@
 
 # Projeto do Bootcamp Alura + Oracle 🌟
 
+
 # Meu Primeiro Projeto com HTML, CSS e JS 🚀
 
 Oi! Eu sou a Gabye, e este é o meu primeiro projeto de front-end feito durante o Bootcamp Alura + Oracle. Ainda estou começando nessa jornada de programação, mas já estou apaixonada por criar interfaces legais e funcionais! 😄
 
-# Sobre o Projeto🎯
+## Sobre o Projeto🎯
 Este projeto foi feito para praticar mais minhas habilidades sobre HTML, CSS e JavaScript. Ele é simples, mas já mostra um pouco do que aprendi até agora.
 A ideia é que seja um site responsivo, com uma interface amigável e algumas interações básicas usando JS e  CSS.
 
@@ -20,7 +21,7 @@ Interatividade básica com JavaScript 🎉
 
 Design minimalista e clean ✨
 
-``
+ 
 # Estrutura do Projeto 📂
 index.html: A estrutura básica da página.
 styles.css: Onde a mágica do CSS acontece para deixar tudo bonitinho.
@@ -35,6 +36,7 @@ JavaScript: Para a interatividade.
 Estruturar HTML de forma semântica
 Criar layouts responsivos com Flexbox.
 Adicionar funcionalidades interativas com JS.
+
 
 # Contribuições 🤝
 Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou fazer um pull request! 😊
